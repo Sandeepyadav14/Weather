@@ -16,13 +16,21 @@ TECH STACKS:-
 FUNCTIONALITY:-
 
 -We can see live time and day and live temrature.
+
 -we can konw different cities temprature by search cities name.
+
 -we can know next 7 days weather condition of that cities.
+
+-We can know the live location and local location.
+
 
 WHAT IS USED ? :-
 
 -I used Weather API for weather data.
+
 -I used Icon for Weather know weather condition.
+
+
 
 Netlify Link:-
 
