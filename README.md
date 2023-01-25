@@ -7,13 +7,15 @@ HOME PAGE:-
 
 ![Screenshot (322)](https://user-images.githubusercontent.com/103120032/214498688-6a78e5b8-c53d-4a22-935e-77e0be5d2a5b.png)
 
-TECH STACKS:-
+#TECH STACKS:-
+
 
 -HTML
 -CSS
 -JAVASCRIPT
 
-FUNCTIONALITY:-
+
+#FUNCTIONALITY:-
 
 -We can see live time and day and live temrature.
 
@@ -24,7 +26,8 @@ FUNCTIONALITY:-
 -We can know the live location and local location.
 
 
-WHAT IS USED ? :-
+
+#WHAT IS USED ? :-
 
 -I used Weather API for weather data.
 
@@ -32,7 +35,7 @@ WHAT IS USED ? :-
 
 
 
-Netlify Link:-
+#Netlify Link:-
 
 https://resplendent-nasturtium-599fcf.netlify.app/
 
